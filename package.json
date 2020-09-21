@@ -1,0 +1,6 @@
+{
+    "scripts": {
+        "open": "cypress open",
+        "run" : "cypress run --record --key 6b045d41-5e84-41dc-ac73-e655ece80b6a"
+    }
+}
